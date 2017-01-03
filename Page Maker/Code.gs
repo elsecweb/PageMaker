@@ -1,4 +1,4 @@
- var output = '';
+var output = '';
 
 // children folders make up the side nav hierarchy
 var children = [];
